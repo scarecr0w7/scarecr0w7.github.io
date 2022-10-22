@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://scarecr0w7.github.io</id>
+    <title>💦scarecr0w7</title>
+    <updated>2022-10-22T08:00:43.739Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://scarecr0w7.github.io"/>
+    <link rel="self" href="https://scarecr0w7.github.io/atom.xml"/>
+    <subtitle>Keep Alive...</subtitle>
+    <logo>https://scarecr0w7.github.io/images/avatar.png</logo>
+    <icon>https://scarecr0w7.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 💦scarecr0w7</rights>
+    <entry>
+        <title type="html"><![CDATA[Reverse｜[GWCTF 2019]pyre]]></title>
+        <id>https://scarecr0w7.github.io/post/reverseorgwctf-2019pyre/</id>
+        <link href="https://scarecr0w7.github.io/post/reverseorgwctf-2019pyre/">
+        </link>
+        <updated>2022-10-21T09:49:54.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse｜Buuctf 简单注册器]]></title>
+        <id>https://scarecr0w7.github.io/post/cryptoorbuuctf-jian-dan-zhu-ce-qi/</id>
+        <link href="https://scarecr0w7.github.io/post/cryptoorbuuctf-jian-dan-zhu-ce-qi/">
+        </link>
+        <updated>2022-10-21T08:57:46.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto｜Buuctf 一张谍报]]></title>
+        <id>https://scarecr0w7.github.io/post/cryptoorbuuctf-yi-zhang-die-bao/</id>
+        <link href="https://scarecr0w7.github.io/post/cryptoorbuuctf-yi-zhang-die-bao/">
+        </link>
+        <updated>2022-10-16T04:06:32.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto｜Buuctf 达芬奇密码]]></title>
+        <id>https://scarecr0w7.github.io/post/cryptoorbuuctf-da-fen-qi-mi-ma/</id>
+        <link href="https://scarecr0w7.github.io/post/cryptoorbuuctf-da-fen-qi-mi-ma/">
+        </link>
+        <updated>2022-10-15T03:05:06.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto｜Buuctf RSA5]]></title>
+        <id>https://scarecr0w7.github.io/post/cryptoorbuuctf-rsa5/</id>
+        <link href="https://scarecr0w7.github.io/post/cryptoorbuuctf-rsa5/">
+        </link>
+        <updated>2022-10-14T15:31:52.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto｜Buuctf 大帝的密码武器]]></title>
+        <id>https://scarecr0w7.github.io/post/cryptoorbuuctf-da-di-de-mi-ma-wu-qi/</id>
+        <link href="https://scarecr0w7.github.io/post/cryptoorbuuctf-da-di-de-mi-ma-wu-qi/">
+        </link>
+        <updated>2022-10-08T12:33:11.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reverse｜[GXYCTF2019]luck_guy]]></title>
+        <id>https://scarecr0w7.github.io/post/reverseorgxyctf2019luck_guy/</id>
+        <link href="https://scarecr0w7.github.io/post/reverseorgxyctf2019luck_guy/">
+        </link>
+        <updated>2022-10-07T14:41:01.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web｜Buuctf-[NPUCTF2020]ezinclude]]></title>
+        <id>https://scarecr0w7.github.io/post/weborbuuctf-npuctf2020ezinclude/</id>
+        <link href="https://scarecr0w7.github.io/post/weborbuuctf-npuctf2020ezinclude/">
+        </link>
+        <updated>2022-10-07T03:40:36.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web｜Buuctf [NCTF2019]SQLi]]></title>
+        <id>https://scarecr0w7.github.io/post/weborbuuctf-nctf2019sqli/</id>
+        <link href="https://scarecr0w7.github.io/post/weborbuuctf-nctf2019sqli/">
+        </link>
+        <updated>2022-10-05T10:16:20.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web｜[SWPUCTF 2018]SimplePHP]]></title>
+        <id>https://scarecr0w7.github.io/post/weborswpuctf-2018simplephp/</id>
+        <link href="https://scarecr0w7.github.io/post/weborswpuctf-2018simplephp/">
+        </link>
+        <updated>2022-10-01T08:02:17.000Z</updated>
+    </entry>
+</feed>
